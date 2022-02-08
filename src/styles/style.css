@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  overflow: overlay;
+  background-color: #51A3A3;
+}
+
+#scene-container {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  background-color: #51A3A3;
+}
+
+.data {
+  font-family: "Space Mono", monospace;
+  position: relative;
+  z-index: 10;
+  font-size: 2rem;
+}
+
+.data .hero {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+/*# sourceMappingURL=style.css.map */
