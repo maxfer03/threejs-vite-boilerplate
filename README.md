@@ -1,5 +1,5 @@
 
-# Three.js + Vite + Sass boilerplate
+# Three.js + Vite + Scss boilerplate
 A Three.js boilerplate for small, vanilla javascript applications.
 For documentation, check out [Discover Three.js' modular design principle](https://discoverthreejs.com/book/first-steps/world-app/)
 # Resources
